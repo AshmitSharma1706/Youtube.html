@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Youtube</title>
+    <base href="/media/" />
+  </head>
+  <body>
+    <table width="100%" align="=center">
+      <tr align="center">
+        <td><img src="images/youtube_logo.png" width="100px" /></td>
+        <td>
+          <form action="search">
+            <input type="text" size="100px" placeholder="search" />
+          </form>
+        </td>
+        <td><img src="images/mic.png" width="25px" /></td>
+        <td><img src="images/video.png" width="25px" /></td>
+        <td><img src="images/bell.png" width="25px" /></td>
+        <td><img src="images/profile.png" width="25px" /></td>
+      </tr>
+    </table>
+    <br />
+    <table width="100%" align="center">
+      <tr align="center">
+        <td><a href="#">All</a></td>
+        <td><a href="#">Music</a></td>
+        <td><a href="#">Videos</a></td>
+        <td><a href="#">HTML</a></td>
+        <td><a href="#">CSS</a></td>
+        <td><a href="#">JS</a></td>
+        <td><a href="#">Java</a></td>
+      </tr>
+    </table>
+    <br />
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <video
+            src="video/apna_bana_le.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Apna bana le</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/chahun_me_ya_na.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Chahun me ya na</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/kaise_hua.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Kaise hua</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/ram_siya_ram.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram siya ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <video
+            src="video/saiyaan.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Saiyaan</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/shayad.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Shayad</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/apna_bana_le.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Apna bana le</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/chahun_me_ya_na.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Chahun me ya na</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <video
+            src="video/kaise_hua.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Kaise hua</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/ram_siya_ram.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram siya ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/saiyaan.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Saiyaan</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/shayad.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Shayad</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <video
+            src="video/apna_bana_le.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Apna bana le</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/chahun_me_ya_na.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Chahun me ya na</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/kaise_hua.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Kaise hua</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/ram_siya_ram.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram siya ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <video
+            src="video/saiyaan.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Saiyaan</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/shayad.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Shayad</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/apna_bana_le.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Apna bana le</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/chahun_me_ya_na.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Chahun me ya na</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <video
+            src="video/kaise_hua.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Kaise hua</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/ram_siya_ram.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram siya ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/saiyaan.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Saiyaan</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="video/shayad.mp4"
+            width="300px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Shayad</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+      </tr>
+    </table>
+    <br />
+    <h1>Youtube Shorts</h1>
+    <hr />
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <video
+            src="reels/ramji_reel.mp4"
+            width="200px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram Siya Ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="reels/ramji_reel.mp4"
+            width="200px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram Siya Ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="reels/ramji_reel.mp4"
+            width="200px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram Siya Ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="reels/ramji_reel.mp4"
+            width="200px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram Siya Ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="reels/ramji_reel.mp4"
+            width="200px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram Siya Ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+        <td>
+          <video
+            src="reels/ramji_reel.mp4"
+            width="200px"
+            controls
+            autoplay
+            muted
+          ></video>
+          <br />
+          <img src="images/t-series.png" width="20" />
+          <span>Ram Siya Ram</span> <br />
+          <span> A T-Series Music</span>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
